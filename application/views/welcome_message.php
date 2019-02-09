@@ -7,11 +7,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<title>Welcome to CodeIgniter</title>
 
 	<link href="<?php echo base_url('assets/bootstrap/css/bootstrap.min.css')?>" rel="stylesheet">
-	<!-- <link rel="stylesheet" type="text/css" href="http://localhost:8080/pharmtech_web/assets/css/bootstrap.min.css">
-	<link href="<?php echo base_url('assets/css/bootstrap.min.css')?>" rel="stylesheet"> -->
-
-	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="css\test.css">
 
 	<style type="text/css">
 
